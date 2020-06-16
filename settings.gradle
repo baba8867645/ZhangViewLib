@@ -1,0 +1,2 @@
+include ':app', ':viewlibrary'
+rootProject.name='ZhangViewLib'
